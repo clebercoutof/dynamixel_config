@@ -1,4 +1,4 @@
-# SCRIPTS PRONTOS PARA CONFIGURAR DYNAMIXELS
+#SCRIPTS PRONTOS PARA CONFIGURAR DYNAMIXELS
 
 O próprio git da Robotis ensina todos os passos pra instalação do dynamixel sdk https://github.com/ROBOTIS-GIT/DynamixelSDK
 
